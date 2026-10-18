@@ -1,0 +1,7 @@
+# Preserve byte identity of all original code/data across platforms.
+code/** -text
+data/original/** -text
+assets/report-figures/** -text
+*.md text eol=lf
+*.json text eol=lf
+*.py text eol=lf

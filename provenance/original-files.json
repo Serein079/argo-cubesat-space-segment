@@ -1,0 +1,119 @@
+{
+  "algorithm": "SHA-256",
+  "entries": [
+    {
+      "source_relative_path": "Draft Report Code/ARGO_BuildMissionData.m",
+      "repository_path": "code/draft/ARGO_BuildMissionData.m",
+      "bytes": 3706,
+      "sha256": "0f167dbcdf56f669e6431b800693020455649d2583fb133e3804f86b9ec8a31c"
+    },
+    {
+      "source_relative_path": "Draft Report Code/ARGO_CommsCDH_AssignmentFull_Results.mat",
+      "repository_path": "data/original/ARGO_CommsCDH_AssignmentFull_Results.mat",
+      "bytes": 67399,
+      "sha256": "1a527aad3de9bdb7d28516bf0d6ae1ed8a32035c9063b72508f3fe79a9e6d14f"
+    },
+    {
+      "source_relative_path": "Draft Report Code/ARGO_CommsCDH_Simple_Results.mat",
+      "repository_path": "data/original/ARGO_CommsCDH_Simple_Results.mat",
+      "bytes": 66271,
+      "sha256": "37496f868c209fed4d2e599c368248d1ddf464c301e773706e28ba36655ad705"
+    },
+    {
+      "source_relative_path": "Draft Report Code/missionplanning.m",
+      "repository_path": "code/draft/missionplanning.m",
+      "bytes": 2883,
+      "sha256": "98fcc6724f1681f74d113a89e418d915367403462c9dcdbc86ced79c6b14589b"
+    },
+    {
+      "source_relative_path": "Draft Report Code/power.m",
+      "repository_path": "code/draft/power.m",
+      "bytes": 3414,
+      "sha256": "11439cbad7740b3d744cedfaa7a2523953ab637741cf460b0625f14eac4426d8"
+    },
+    {
+      "source_relative_path": "Draft Report Code/structure.m",
+      "repository_path": "code/draft/structure.m",
+      "bytes": 1208,
+      "sha256": "6041dda5c7a170446e21298e4e3510a279aa5c2a9c17cd319b2f0521ea086576"
+    },
+    {
+      "source_relative_path": "Draft Report Code/thermalcontrol.m",
+      "repository_path": "code/draft/thermalcontrol.m",
+      "bytes": 1547,
+      "sha256": "35d389ac33b4cb80f3f74612c50ef52b5409112d92322d6a2dbfed7bbadeaf48"
+    },
+    {
+      "source_relative_path": "Final Report Code/ADCSactive.m",
+      "repository_path": "code/final-development/ADCSactive.m",
+      "bytes": 7470,
+      "sha256": "a4da6fdea41f4f897367a93be9257f745a4b2a4641afcbcd97a204fa17816bea"
+    },
+    {
+      "source_relative_path": "Final Report Code/Comm.m",
+      "repository_path": "code/final-development/Comm.m",
+      "bytes": 11743,
+      "sha256": "4120b18da2f42eebd12fdddfb6b1a03686ec13f11377a3fa677942f3598d1f26"
+    },
+    {
+      "source_relative_path": "Final Report Code/Final_BuildMissionData.m",
+      "repository_path": "code/final-development/Final_BuildMissionData.m",
+      "bytes": 20387,
+      "sha256": "54a8c6cc70b6e5ac06dfb7e6f3e8f2f4baa6773c6b3359b4dcc54384cd2c4cc6"
+    },
+    {
+      "source_relative_path": "Final Report Script/FinalADCS.m",
+      "repository_path": "code/final/FinalADCS.m",
+      "bytes": 3591,
+      "sha256": "452a7bb0ac54c61d8f688df14ed058a1ac9f22ef0962261f863fd63d857951a6"
+    },
+    {
+      "source_relative_path": "Final Report Script/FinalCDH.m",
+      "repository_path": "code/final/FinalCDH.m",
+      "bytes": 2491,
+      "sha256": "a63cbf0cc9a706e0b8c0d075fecda849bf69f7f25e7aab5ec60ab3c58f31565e"
+    },
+    {
+      "source_relative_path": "Final Report Script/FinalCubeSatSimulation.m",
+      "repository_path": "code/final/FinalCubeSatSimulation.m",
+      "bytes": 4692,
+      "sha256": "0aaea54df664ea7e85fc7625591be146c47c411000456116017f844466636210"
+    },
+    {
+      "source_relative_path": "Final Report Script/FinalPower.m",
+      "repository_path": "code/final/FinalPower.m",
+      "bytes": 3668,
+      "sha256": "0fb204ea38fb7802a6e3129a885ec733fac3ab7f1a1b22110d282072173d5c8a"
+    },
+    {
+      "source_relative_path": "Final Report Script/FinalStructure.m",
+      "repository_path": "code/final/FinalStructure.m",
+      "bytes": 647,
+      "sha256": "31ba985f837276d71db36dfc4a22adf38eb1e8e1fa2513222733bd371802408d"
+    },
+    {
+      "source_relative_path": "Final Report Script/FinalThermal.m",
+      "repository_path": "code/final/FinalThermal.m",
+      "bytes": 1656,
+      "sha256": "7def0be730947dd83123bc084c19e2363a68d7b84631a201154087e6bee9f086"
+    },
+    {
+      "source_relative_path": "Final Report Script/ISSOrbit.m",
+      "repository_path": "code/final/ISSOrbit.m",
+      "bytes": 301,
+      "sha256": "c434f9acd2097dbbefc108d85588b2bccb1c7f1e3e02ff2c086c59f98579600f"
+    },
+    {
+      "source_relative_path": "SCTAcademic/FinalBuildMissionData.m",
+      "repository_path": "code/integration-development/FinalBuildMissionData.m",
+      "bytes": 8711,
+      "sha256": "ba1e5aec1a9e7ab5c799c2fa5c0407277905f1f3594c84ec59f18613933b667c"
+    },
+    {
+      "source_relative_path": "SCTAcademic/FinalMissionMode.m",
+      "repository_path": "code/integration-development/FinalMissionMode.m",
+      "bytes": 3647,
+      "sha256": "2912f804e3519cda13d9ff9bdb7535666e91bf85f6e6b69a0f5c2765538ca3c4"
+    }
+  ]
+}

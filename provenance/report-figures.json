@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "repository_path": "assets/report-figures/structure.png",
+      "source_document": "Final assessment report, 22 pages",
+      "source_document_sha256": "b0301e4a8d3ab7458114a7880642f7987b74bd65a22599168fcd06f01b5faf80",
+      "pdf_page": 6,
+      "embedded_image": "Im3.png",
+      "sha256": "7bb6e8b46eb23a9721ebd4e5a9d319b69496f131d29e395addbecd650118e736",
+      "method": "pypdf embedded-image extraction; no redraw or numerical modification"
+    },
+    {
+      "repository_path": "assets/report-figures/thermal.png",
+      "source_document": "Final assessment report, 22 pages",
+      "source_document_sha256": "b0301e4a8d3ab7458114a7880642f7987b74bd65a22599168fcd06f01b5faf80",
+      "pdf_page": 9,
+      "embedded_image": "Im5.png",
+      "sha256": "c451fa95dc956be8f3ea737511294e6201779cde165259b327d6c61b6e7d995e",
+      "method": "pypdf embedded-image extraction; no redraw or numerical modification"
+    },
+    {
+      "repository_path": "assets/report-figures/power.png",
+      "source_document": "Final assessment report, 22 pages",
+      "source_document_sha256": "b0301e4a8d3ab7458114a7880642f7987b74bd65a22599168fcd06f01b5faf80",
+      "pdf_page": 11,
+      "embedded_image": "Im6.png",
+      "sha256": "b3924039c57b165f5f1af171138e09d6e0e3b6c7d4f1552aee0b1f429de37880",
+      "method": "pypdf embedded-image extraction; no redraw or numerical modification"
+    },
+    {
+      "repository_path": "assets/report-figures/battery.png",
+      "source_document": "Final assessment report, 22 pages",
+      "source_document_sha256": "b0301e4a8d3ab7458114a7880642f7987b74bd65a22599168fcd06f01b5faf80",
+      "pdf_page": 12,
+      "embedded_image": "Im7.png",
+      "sha256": "25a8d6aeeb7322f3476d81618bfbf13287f5e86c23e0e2332fc8139551767394",
+      "method": "pypdf embedded-image extraction; no redraw or numerical modification"
+    },
+    {
+      "repository_path": "assets/report-figures/adcs.png",
+      "source_document": "Final assessment report, 22 pages",
+      "source_document_sha256": "b0301e4a8d3ab7458114a7880642f7987b74bd65a22599168fcd06f01b5faf80",
+      "pdf_page": 14,
+      "embedded_image": "Im8.png",
+      "sha256": "55b0385cc6bb733961ff7267899b109163ad95cc5a0664be12d8b3d7cd9ea2b6",
+      "method": "pypdf embedded-image extraction; no redraw or numerical modification"
+    },
+    {
+      "repository_path": "assets/report-figures/visibility.png",
+      "source_document": "Final assessment report, 22 pages",
+      "source_document_sha256": "b0301e4a8d3ab7458114a7880642f7987b74bd65a22599168fcd06f01b5faf80",
+      "pdf_page": 16,
+      "embedded_image": "Im9.png",
+      "sha256": "d456c680ee17e3e5257ced0dfb2ff631ec076f0ee3731913b7bac4b7e235e4b2",
+      "method": "pypdf embedded-image extraction; no redraw or numerical modification"
+    },
+    {
+      "repository_path": "assets/report-figures/bep-orbit.png",
+      "source_document": "Final assessment report, 22 pages",
+      "source_document_sha256": "b0301e4a8d3ab7458114a7880642f7987b74bd65a22599168fcd06f01b5faf80",
+      "pdf_page": 17,
+      "embedded_image": "Im10.png",
+      "sha256": "81d5304c2ba10322cadb0715cade21eab2be3f343a258291ca934471b0efaa5a",
+      "method": "pypdf embedded-image extraction; no redraw or numerical modification"
+    },
+    {
+      "repository_path": "assets/report-figures/bep-pass.png",
+      "source_document": "Final assessment report, 22 pages",
+      "source_document_sha256": "b0301e4a8d3ab7458114a7880642f7987b74bd65a22599168fcd06f01b5faf80",
+      "pdf_page": 17,
+      "embedded_image": "Im11.png",
+      "sha256": "d76a434d4948bce593f9f67ae0d13f8e0eb6d8e442462936feed6e2b7836bf36",
+      "method": "pypdf embedded-image extraction; no redraw or numerical modification"
+    }
+  ]
+}

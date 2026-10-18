@@ -1,0 +1,18 @@
+# Local licensed/course material and scratch outputs
+.DS_Store
+._*
+*.asv
+*.m~
+*.mex*
+*.slxc
+*.log
+slprj/
+work/
+runs/
+private/
+SCTAcademic/
+SCT/
+Assessment/
+argo-local-archive/
+__pycache__/
+# The two original MAT files under data/original are intentionally tracked.
